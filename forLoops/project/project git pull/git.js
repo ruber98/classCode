@@ -1,0 +1,1 @@
+  $('body').append('<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Ursus_arctos_-_Norway.jpg" />'); 
